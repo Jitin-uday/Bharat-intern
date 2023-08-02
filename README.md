@@ -1,9 +1,7 @@
 """
 Tkinter Toolkit
-Author: Akash Bora
 Version: 0.2
-License: MIT
-Homepage: https://github.com/Akascape/tkinter-toolkit
+License: MI
 """
 
 import customtkinter
